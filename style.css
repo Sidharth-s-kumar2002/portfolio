@@ -469,7 +469,7 @@ transform:translateY(-3px);
     transform: translateY(-8px) scale(1.03);
 
     box-shadow:
-        0 0 35px rgba(37, 99, 235, 0.8),
-        0 0 70px rgba(37, 99, 235, 0.5),
+        0 0 35px rgba(14, 220, 239, 0.8),
+        0 0 70px rgba(5, 202, 247, 0.5),
         0 20px 45px rgba(0, 0, 0, 0.3);
 }
